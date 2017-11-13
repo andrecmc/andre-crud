@@ -1,0 +1,9 @@
+com/andre/andrecrud/user/UserController.class
+com/andre/andrecrud/user/UserService.class
+com/andre/andrecrud/campaign/CampaignRepository.class
+com/andre/andrecrud/AndrecrudApplication.class
+com/andre/andrecrud/user/UserRepository.class
+com/andre/andrecrud/campaign/CampaignController.class
+com/andre/andrecrud/user/User.class
+com/andre/andrecrud/campaign/Campaign.class
+com/andre/andrecrud/campaign/CampaignService.class
